@@ -1,8 +1,17 @@
 * {
-    color: white;
-    background-color: black;
+    color: rgb(212, 212, 212);
+    background-color: #151515;
+    font-family: "Tahoma", "Verdana", sans-serif;
 }
 
-p {
-    color: red;
+h1.title {
+    text-align: center;
+    font-size: 40px;
+    text-decoration-line: underline;
+    text-underline-offset: 5px;
+}
+
+img {
+    height:auto;
+    width: 550px;
 }
